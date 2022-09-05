@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#rectangle {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.myColorselector {
+    padding: 10px;
+  border: 1px solid black;
+  width: 200px;
+}
